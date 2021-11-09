@@ -1,0 +1,5 @@
+[zabbix-repo]
+baseurl=https://repo.zabbix.com/zabbix/3.0/rhel/8/x86_64/
+enabled = 1
+gpgcheck = 0 
+sslverify = 0
